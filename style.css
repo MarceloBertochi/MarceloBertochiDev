@@ -1,0 +1,34 @@
+body{
+    margin: 20px;
+}
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    float: right;
+    border-radius: 30px;    
+   }
+
+.container {
+    border: solid 2px darkgreen;
+    display: flex;
+    padding: 10px;
+    background-color: darkgreen;
+}
+
+.formacao{
+    border: 2px solid lightgreen;
+    background-color: lightgreen;    
+}
+.superior{
+    border: 0 solid;
+}
+.html{
+    border: 0 solid;
+}
+.css {
+    border: 0 solid;
+}
+
