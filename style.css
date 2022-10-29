@@ -1,27 +1,33 @@
 body{
-    margin: 20px;
+    margin: 60px;
 }
 h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+}
+
 img {
     width: 300px;
-    float: right;
-    border-radius: 30px;    
-   }
+    border-radius: 30px; 
+    float: right;  
+    display: flex; 
+       }
 
 .container {
     border: solid 2px darkgreen;
-    display: flex;
+    display: flex;    
     padding: 10px;
     background-color: darkgreen;
+    width: 420px;
 }
 
 .formacao{
     border: 2px solid lightgreen;
-    background-color: lightgreen;    
-}
+    background-color: lightgreen;
+    }
 .superior{
     border: 0 solid;
 }
